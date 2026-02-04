@@ -35,10 +35,10 @@ In the most complex case where a node has two children, the tree structure must 
 ### Visual Proof
 
 #### 1. Complex Tree Before Deletions
-![Complex Tree Before](complex_before.png)
+![Complex Tree Before](tree_before.png)
 
 #### 2. Complex Tree After Deletions (10, 60, 20)
-![Complex Tree After](complex_after.png)
+![Complex Tree After](tree_after.png)
 
 #### 3. Linked List Test (Deleting Middle Node 20)
 ![Linked List Test](linked_list_test.png)
