@@ -6,4 +6,4 @@
 
 #### Image:
 
-![Stay Focused](https://github.com/user-attachments/assets/0bfa8bee-b5f5-4f1f-82c4-870ea22cca7f)
+<img src="https://github.com/user-attachments/assets/0bfa8bee-b5f5-4f1f-82c4-870ea22cca7f" width="100">
