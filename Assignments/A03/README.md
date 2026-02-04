@@ -41,7 +41,7 @@ In the most complex case where a node has two children, the tree structure must 
 ![Complex Tree After](tree_after.png)
 
 #### 3. Linked List Test (Deleting Middle Node 20)
-![Linked List Test](linked_list_test.png)
+![Linked List Test](linkedlist.png)
 
 ---
 
