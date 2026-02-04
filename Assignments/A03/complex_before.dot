@@ -1,0 +1,25 @@
+digraph BST {
+    node [fontname="Arial"];
+    40 -> 20 [label="L"];
+    20 -> 10 [label="L"];
+    nullL10 [shape=point];
+    10 -> nullL10;
+    nullR10 [shape=point];
+    10 -> nullR10;
+    20 -> 30 [label="R"];
+    nullL30 [shape=point];
+    30 -> nullL30;
+    nullR30 [shape=point];
+    30 -> nullR30;
+    40 -> 60 [label="R"];
+    60 -> 50 [label="L"];
+    nullL50 [shape=point];
+    50 -> nullL50;
+    nullR50 [shape=point];
+    50 -> nullR50;
+    60 -> 70 [label="R"];
+    nullL70 [shape=point];
+    70 -> nullL70;
+    nullR70 [shape=point];
+    70 -> nullR70;
+}
