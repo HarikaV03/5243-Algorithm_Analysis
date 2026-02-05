@@ -50,4 +50,3 @@ In the most complex case where a node has two children, the tree structure must 
 | # | File | Description |
 | :--- | :--- | :--- |
 | 1 | `bst.cpp` | Main program containing the BST class, Deletion logic, and Test Cases. |
-| 2 | `README.md` | Documentation of the implementation and learning points. |
